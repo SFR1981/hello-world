@@ -9,10 +9,10 @@ class Dragon
 
 <<<<<<< HEAD
 			puts "#{@name} is born at #{Time.new}. It is a glorius day!"
-
+#comment
 =======
 			puts "#{@name} is born at #{Time.new}."
-			puts "What up"	
+			puts "What up"
 >>>>>>> dragon
 
 
