@@ -7,13 +7,13 @@ class Dragon
 			@stuff_in_intestine = 0 # He doesn't need the toilet.
 
 
-<<<<<<< HEAD
+
 			puts "#{@name} is born at #{Time.new}. It is a glorius day!"
-#comment
-=======
+
+
 			puts "#{@name} is born at #{Time.new}."
 			puts "What up"
->>>>>>> dragon
+
 
 
 		end
