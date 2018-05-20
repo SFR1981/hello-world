@@ -6,7 +6,7 @@ class Dragon
 			@stuff_in_belly = 10 #full
 			@stuff_in_intestine = 0 # He doesn't need to doody
 
-			puts "#{@name} is born."
+			puts "#{@name} is born at #{Time.new}."
 		end
 
 
