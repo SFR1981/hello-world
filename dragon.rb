@@ -4,11 +4,11 @@ class Dragon
 			@name = name
 			@asleep = false
 			@stuff_in_belly = 10 #full
-			@stuff_in_intestine = 0 # He doesn't need the toilet. 
+			@stuff_in_intestine = 0 # He doesn't need the toilet.
 
 
 			puts "#{@name} is born at #{Time.new}."
-
+			puts "What up"	
 
 
 		end
