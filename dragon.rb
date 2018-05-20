@@ -9,7 +9,7 @@ class Dragon
 
 			puts "#{@name} is born at #{Time.new}."
 
-		
+
 
 		end
 
@@ -91,7 +91,7 @@ class Dragon
 
         if @stuff_in_intestine >= 10
            @stuff_in_intestine = 0
-           puts "Whoops! #{@name} has had an accident, with your carpet and his doody!"
+           puts "Whoops! #{@name} has had an accident, on your carpet!"
 
          end
 
