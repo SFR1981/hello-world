@@ -12,7 +12,7 @@ class Dragon
 
 
 			puts "#{@name} is born at #{Time.new}."
-			puts "What up"
+			puts "What up" #yo
 
 
 
